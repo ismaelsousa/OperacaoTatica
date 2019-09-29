@@ -56,8 +56,12 @@ ter um total de 30 vítimas.
 _______________________________________________________________________________________________________
 Toda operação levou 106 dias
 
-Unidade 0  Icó 0 -> Itarema 62 -> Tabuleiro+do+Norte 179 -> Massapê 304 -> Chorozinho 392 -> Forquilha 494 -> Quixadá 625 -> São+Gonçalo+do+Amarante 735 -> Fortaleza 805 ->
-Unidade 1  Barroquinha 0 -> Juazeiro+do+Norte 0 -> Acaraú 60 -> Limoeiro+do+Norte 177 -> São+Benedito 269 -> Aracati 355 -> Sobral 507 -> Pacajus 599 -> Umirim 720 -> Pacoti 795 -> Maracanaú 905 ->
-Unidade 2  Eusébio 0 -> Saboeiro 44 -> Marco 180 -> Morada+Nova 285 -> Reriutaba 410 -> Pindoretama 475 -> Itatira 627 -> Paracuru 719 -> Guaiúba 840 ->
-Unidade 3  Ibaretama 0 -> Chaval 9 -> Iguatu 114 -> Morrinhos 209 -> Icapuí 325 -> Crateús 395 -> Aquiraz 539 -> Canindé 660 -> Pacatuba 774 -> Caucaia 835 ->
+Unidade 0  Icó 0 -> Itarema 62 -> Tabuleiro+do+Norte 179 -> Massapê 304 -> Chorozinho 392 -> Forquilha 494 -> Quixadá 625 -> São+Gonçalo+do+Amarante 735 -> Fortaleza 805 
+
+Unidade 1  Barroquinha 0 -> Juazeiro+do+Norte 0 -> Acaraú 60 -> Limoeiro+do+Norte 177 -> São+Benedito 269 -> Aracati 355 -> Sobral 507 -> Pacajus 599 -> Umirim 720 -> Pacoti 795 -> Maracanaú 905 
+
+Unidade 2  Eusébio 0 -> Saboeiro 44 -> Marco 180 -> Morada+Nova 285 -> Reriutaba 410 -> Pindoretama 475 -> Itatira 627 -> Paracuru 719 -> Guaiúba 840 
+
+Unidade 3  Ibaretama 0 -> Chaval 9 -> Iguatu 114 -> Morrinhos 209 -> Icapuí 325 -> Crateús 395 -> Aquiraz 539 -> Canindé 660 -> Pacatuba 774 -> Caucaia 835 
+
 Unidade 4  Aracoiba 0 -> Jijoca+de+jericoacoara 30 -> Piquet+Carneiro 140 -> Tianguá 224 -> Jaguaruana 360 -> Varjota 479 -> Horizonte 590 -> Tururu 699 -> Baturité 755 -> Maranguape 914 ->
