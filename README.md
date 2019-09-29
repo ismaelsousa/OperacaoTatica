@@ -43,3 +43,11 @@ ter um total de 30 vítimas.
   </li>
   </li>
 </ul>
+
+## Para executar
+<ul>
+  <li>Baixar arquivo mapCitys.txt no repositporio do matrixDistanceWithGoogleMaps citado anteriomente</li>
+  <li>Baixar o código desse repositório, que é um projeto do NetBeans</li>
+  <li>Na classe Main substituir no FileReader o caminho relativo do arquivo mapCitys.txt</li>
+  <li>Agora é só rodar e ser feliz! :) </li>
+</ul>
