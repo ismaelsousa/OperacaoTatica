@@ -36,7 +36,8 @@ ter um total de 30 vítimas.
   <li>Obter a distância entre todas as cidades atacadas. Um meio de realizar esta tarefa
     é realizando uma consulta ao Google Cloud utilizando a DistanceMatrix API, que
     permite retornar uma matriz de distancias entre N pontos de origem e M pontos
-    de destino. Qualquer outra API está liberada para uso.
+    de destino.
+    Código no github: https://github.com/ismaelsousa/MatrixDistanceWithGoogleMaps
   <li>Implementação de uma metaheurística que calcule uma rota para cada unidade
     com a menor distância que resulte no menor número de vítimas
   </li>
