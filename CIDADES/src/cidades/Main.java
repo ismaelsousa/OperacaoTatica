@@ -213,7 +213,7 @@ public class Main {
         
         // Aqui já finalizou toda operação 
         System.out.println("_______________________________________________________________________________________________________");
-        System.out.println("Toda operação levou "+qtdDias);
+        System.out.println("Toda operação levou "+qtdDias+ " dias");
         System.out.println("");
         
         // Printa lista de cada unidade com suas respectivas cidades visitadas e o número de vítimas
